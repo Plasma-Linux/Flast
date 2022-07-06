@@ -1,2 +1,3 @@
 # Flast
 FlastはFacscode Networkによって開発されているChromiumベースのブラウザです。Plasma-Linuxのメインブラウザとして今後使っていく予定です。
+インストールやビルド方法はFascode Networkを参考にしてください。
